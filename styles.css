@@ -1,0 +1,31 @@
+p {
+	color: blue;
+	font-family: 'Roboto', sans-serif;
+	
+			}
+ul {
+	color: darkgoldenrod;
+	font-family: 'Roboto', sans-serif;
+			}
+span {
+		color: black;
+	font-family: 'Roboto', sans-serif;
+
+	}
+body {
+	background: #ced3ac9f;
+	
+}
+ 
+.fight {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+h1 {
+	background: yellow;
+	color: darkred;
+	text-align: center;
+}
